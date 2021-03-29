@@ -6,7 +6,8 @@
 		"dev": "next dev",
 		"build": "next build",
 		"start": "next start",
-		"test": "xo !*.config.js"
+		"test": "xo !*.config.js",
+		"type-check": "tsc"
 	},
 	"dependencies": {
 		"next": "^10.0.9",

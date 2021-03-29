@@ -5,7 +5,4 @@ module.exports = withPWA({
 	pwa: {
 		dest: 'public',
 	},
-	assetPrefix: isProd
-		? 'https://cdn.statically.io/gh/Jerell/next-pwa/main/'
-		: '',
 })

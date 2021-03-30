@@ -1,7 +1,7 @@
 {
-	"name": "Rice Bowl",
-	"short_name": "Rice Bowl",
-	"description": "Fluffless jasmine rice for those cold winter nights",
+	"name": "Progressive Web App Template",
+	"short_name": "PWA Template",
+	"description": "A template for progressive web apps",
 	"icons": [
 		{
 			"src": "/images/icon-192.png",
